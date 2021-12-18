@@ -5,6 +5,13 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 # Fontend can be found [Here](https://replit.com/@OfficialOzioma/waveportal-starter-project-1#src)
 
 
+# Screenshots
+
+![s](https://user-images.githubusercontent.com/28990981/146625353-11649cf7-be9b-4a9c-af8b-f5c07310caae.png)
+
+# [Demo](https://waveportal-starter-project-1.officialozioma.repl.co/)
+
+
 Try running some of the following tasks:
 
 ```shell
